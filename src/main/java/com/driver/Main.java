@@ -7,13 +7,7 @@ public class Main {
         mercedes.accelerate(20);
         mercedes.accelerate(-60);
 
-  Boat boat=new Boat();
-        System.out.println(boat.getVehicleCapacity());
-        System.out.println(boat.getVehicleName());
 
-        Boat b= new Boat("St.michaels",16);
-        System.out.println(b.getVehicleName());
-        System.out.println(b.getVehicleCapacity());
 
     }
 }
